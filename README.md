@@ -8,6 +8,5 @@ To install OpenCV just paste this command in your terminal: pip install opencv-p
 Run the php file using xampp or wampp.
 Remember to change the the database name and table name (if changed)
 
-Members:
-Musab Shaikh (TechM-dev)
-Harsh Sawaji (DemonSword09)
+Output:
+![image](https://user-images.githubusercontent.com/80820210/189377492-75e670e4-7647-4e96-a3b4-634027f4dcef.png)
